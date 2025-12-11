@@ -5,7 +5,7 @@ It includes a firewall, Active Directory domain, endpoint telemetry, SIEM monito
 
 The goal of this lab is to understand how attacks unfold, how defenders detect them, and how logs flow across systems to support incident investigation and threat hunting.
 
-# Lab Architecture Overview
+## Lab Architecture Overview
 
 The environment consists of:
 
@@ -23,7 +23,7 @@ The environment consists of:
 
 All systems run inside VirtualBox on my host machine using an isolated internal network.
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 - **SIEM deployment & configuration (Splunk)**
 
