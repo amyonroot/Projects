@@ -3,7 +3,7 @@
 This project is my fully built SOC-style home lab designed to simulate real-world enterprise security operations.
 It includes a firewall, Active Directory domain, endpoint telemetry, SIEM monitoring, and attacker simulations to analyze security events and develop practical blue-team skills.
 
-The goal of this lab is to understand how attacks unfold, how defenders detect them, and how logs flow across systems to support incident investigation and threat hunting.
+I built this lab to gain hands-on experience with real defensive tools while exploring how attackers interact with systems in a controlled environment. Its purpose is to provide a clear view of how attacks unfold, how defenders detect and respond to them, and how logs move across systems to support incident investigations and threat hunting.
 
 ## Lab Architecture Overview
 
