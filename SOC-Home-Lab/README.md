@@ -9,7 +9,7 @@ The goal of this lab is to understand how attacks unfold, how defenders detect t
 
 The environment consists of:
 
-**pfSense Firewall – traffic filtering, NAT, and logging**
+- **pfSense Firewall – traffic filtering, NAT, and logging**
 
 **Windows Server 2022 (AD DS) – Active Directory domain controller**
 
