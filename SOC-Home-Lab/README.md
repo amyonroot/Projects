@@ -9,36 +9,36 @@ The goal of this lab is to understand how attacks unfold, how defenders detect t
 
 The environment consists of:
 
-- **pfSense Firewall – traffic filtering, NAT, and logging**
+- pfSense Firewall – traffic filtering, NAT, and logging
 
-- **Windows Server 2022 (AD DS) – Active Directory domain controller**
+- Windows Server 2022 (AD DS) – Active Directory domain controller
 
-- **Windows 10 Client – domain-joined workstation**
+- Windows 10 Client – domain-joined workstation
 
-- **Ubuntu Server (Splunk Enterprise) – SIEM for log ingestion and analysis**
+- Ubuntu Server (Splunk Enterprise) – SIEM for log ingestion and analysis
 
-- **Sysmon – detailed Windows endpoint telemetry**
+- Sysmon – detailed Windows endpoint telemetry
 
-- **Kali Linux – attacker machine for recon and exploitation testing**
+- Kali Linux – attacker machine for recon and exploitation testing
 
 All systems run inside VirtualBox on my host machine using an isolated internal network.
 
 ## Skills Demonstrated
 
-- **SIEM deployment & configuration (Splunk)**
+- SIEM deployment & configuration (Splunk)
 
-- **Log forwarding using Splunk Universal Forwarder**
+- Log forwarding using Splunk Universal Forwarder
 
-- **Windows event log analysis**
+- Windows event log analysis
 
-- **Sysmon installation, configuration, and event interpretation**
+- Sysmon installation, configuration, and event interpretation
 
-- **Network segmentation & firewall rule creation (pfSense)**
+- Network segmentation & firewall rule creation (pfSense)
 
-- **Active Directory setup and management**
+- Active Directory setup and management
 
-- **Incident response fundamentals**
+- Incident response fundamentals
 
-- **Attack simulation using Kali Linux**
+- Attack simulation using Kali Linux
 
-- **Query building and dashboard creation in Splunk**
+- Query building and dashboard creation in Splunk
